@@ -11,7 +11,7 @@
 - Preferences (TV Show Only):
   - Shows with short durations.
 
-  Based on this profile, we are now able to suggest movies that align with her preferences.
+Based on this profile, we are now able to suggest movies that align with our clients preferences.
 
 ## Question and Solution
 N.B Convert Date to sql format.
@@ -188,8 +188,8 @@ FROM shows_table;
 ```
 - 2014 and 2016 had the highest increase with 75% and 78.4% respectively
 
-```
 8. Calulate the number of shows and movie added each month
+
 ```sql
 SELECT MONTH(Date_Added) AS MONTH, COUNT(Show_id)
 FROM netflix_movies
