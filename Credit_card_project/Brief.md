@@ -12,3 +12,11 @@ The primary objective of this project is to create a robust and efficient credit
 4. Developing a model or set of criteria to predict the likelihood of approval for new applications based on historical data.
 
 This project aims to streamline the credit card approval process, enhance decision-making accuracy, and improve overall customer satisfaction by making the approval process more transparent and data-driven.
+
+### Data cleaning for credt card approval system
+Steps for Data Cleaning Using Excel:
+1. Remove Duplicates
+2. Standardize Column Names: Ensure all column names are consistent, clear, and follow a standard naming format
+3. Join Worksheets Using VLOOKUP
+4. Find and Replace Missing Letters
+5. Remove Redundant Columns: Identify columns that are not necessary for the analysis (e.g., columns with irrelevant information or duplicate data).
