@@ -4,8 +4,7 @@
   
 2. How does approval rate vary by gender and marital status ?
 - The analysis revealed that single males will likely be approved for a creidt card. This is because they have fewer financial responsibilities
-- Married male will likely be accepted for a credit card compared to married females. In some households, married males may traditionally handle financial responsibilities, including applying for credit, managing bills, and maintaining household budgets.
-- This experience can lead to a stronger credit history.
+- Married male will likely be accepted for a credit card compared to married females. In some households, married males may traditionally handle financial responsibilities, including applying for credit, managing bills, and maintaining household budgets. This experience can lead to a stronger credit history.
 
 3. How does the employment class affect approval rate. Does the type of work affect approval rate ?
 - Analysis reveals that employed people who also recieve pension will most likely be approved for a credit card
