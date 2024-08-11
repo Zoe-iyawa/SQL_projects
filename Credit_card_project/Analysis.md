@@ -1,8 +1,6 @@
 1. How does approval rate vary by age and if they are employed ?
 - The analysis indicates that adults (25 - 44) who are unemployed are very likely to be declined a credit card
-- Middle_aged adults who are employed are more likely to be approved compared to the other age groups.
-- Seniors who are unemployed will likely be approved. This can be due to a stable income from pension providers and free governemnt services and also low debt level. Most seniors will likely have paid off
-  their debts from mortgage, cars etc.
+- Some seniors who are unemployed will likely be approved. This can be due to a stable income from pension providers and free governemnt services and also low debt level. Most seniors will likely have paid off their debts from mortgage, cars etc. However, seniors who are currently working will get their credit card applicaion declined.
   
 2. How does approval rate vary by gender and marital status ?
 - The analysis revealed that single males will likely be approved for a creidt card. This is because they have fewer financial responsibilities
