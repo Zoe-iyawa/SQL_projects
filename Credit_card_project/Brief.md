@@ -9,7 +9,7 @@ The primary objective of this project is to create a robust and efficient credit
 1. Identifying key factors that affect the approval of credit card applications.
 2. Exploring and analyzing the data using SQL to uncover patterns and relationships.
 3. Cleaning and preparing the data using Excel to ensure accuracy and consistency.
-4. Developing a model or set of criteria to predict the likelihood of approval for new applications based on historical data.
+4. Developing a model using python to understand the likelihood of approval for new applications.
 
 This project aims to streamline the credit card approval process, enhance decision-making accuracy, and improve overall customer satisfaction by making the approval process more transparent and data-driven.
 
