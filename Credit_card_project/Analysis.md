@@ -16,4 +16,18 @@
 5. Does count of chidren and marital status affect approval rate ?
 - Separated families with 4 kids will likely be declined a credit card
 - Married families with 4 kids will likely be approved a credit card
-- Widowed families will likely be declined a credit card. 
+- Widowed families will likely be declined a credit card.
+
+
+## Multiple Regression using Python
+In this analysis, I conducted a multiple linear regression to predict a target variable based (Approved or not) on multiple features using a dataset of credit card approvals. The steps involved included data preparation, model training using the LinearRegression model from the sklearn library, and evaluation of the model's performance using the R-squared (R²) metric.
+
+# Interpretation of the R-squared Value
+The R-squared value obtained from the model was 0.0146. This value is quite low, indicating that the model explains only about 1.46% of the variance in the target variable based on the features used in the model.
+
+# Conclusion
+The R-squared value of 0.0146 suggests that the linear regression model has very limited predictive power for this dataset. This could be due to several reasons:
+- Weak Relationship: The features used may have a weak or non-linear relationship with the target variable, making them poor predictors.
+- Insufficient Features: Important predictors might be missing from the model, leading to poor performance.
+
+In conclusion, while the model was implemented correctly, the low R-squared value indicates that it doesn't adequately explain the variation in the target variable. 
